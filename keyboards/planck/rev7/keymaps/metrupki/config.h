@@ -41,3 +41,6 @@
    - etc.
 */
 // #define MIDI_ADVANCED
+
+
+#define BOTH_SHIFTS_TURNS_ON_CAPS_WORD
